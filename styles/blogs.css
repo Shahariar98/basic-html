@@ -1,0 +1,20 @@
+h3{
+    font-size: 30px;
+    /* text-decoration: overline; */
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.blog{
+    margin: 40px;
+    border: 5px solid red;
+    padding: 0px 20px;
+    box-shadow: 10px 10px 20px purple;
+
+}
+.second{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+.lorem{
+    border: 2px solid blue;
+}
